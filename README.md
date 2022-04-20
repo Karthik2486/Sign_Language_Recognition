@@ -12,20 +12,7 @@ The test data set contains a mere 29 images, to encourage the use of real-world 
 
 ![IMG](https://i.ibb.co/RD6dqqs/download.png)
 
-**To make this app work on your local device**
 
-1. Fork this repo
-2. Setup all the files locally
-3. Install these packages
-```
-tensorflow==2.7.0
-pillow==8.2.0
-streamlit==0.82.0
-```
-4. Then run the following command in the base directory
-```
-streamlit run app.py
-```
 
 **Predictions made by the model:**
 
